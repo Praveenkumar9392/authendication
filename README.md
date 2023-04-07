@@ -1,2 +1,3 @@
 # authendication
 login
+logout
